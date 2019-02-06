@@ -1,3 +1,4 @@
+
 body{
     background-color: ghostwhite ;
     font-style: bold;
@@ -8,13 +9,15 @@ nav{
     font-style: italic;
     text-align: center;
     float: center;
+    margin: 1px;
     
-
 }
 h1{
     font-style: bold;
     font-family: 'Franklin Gothic Medium';
     text-align: center;
+    float: center;
+    position: absolute;
 }
 .Portfolio{
    
@@ -32,3 +35,9 @@ footer{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: bold;
 }
+  header{
+  
+    margin: 0 auto;
+   
+    text-align: center;
+  }
